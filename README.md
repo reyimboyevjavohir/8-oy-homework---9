@@ -1,5 +1,5 @@
-# PsixoHelp v3 — Ishga tushirish
 
+<<<<<<< HEAD
 ## Talablar
 - Node.js 18+
 - PostgreSQL
@@ -46,4 +46,7 @@ npm run dev
 - Health:   http://localhost:4000/api/health
 # 8-oy-homework---9
 # 8-oy-homework---9
+# 8-month-homework-9
+=======
+>>>>>>> b484beffaa633068ac9f4f5487345ef5808c7b38
 # 8-month-homework-9
